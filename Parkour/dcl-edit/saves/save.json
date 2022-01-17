@@ -1,0 +1,305 @@
+{
+    "entityNumberCounter": 30,
+    "entities": [
+        {
+            "name": "Platform",
+            "uniqueNumber": 7,
+            "exposed": true,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.5,\"y\":2.5,\"z\":9.5},\"rot\":{\"x\":0.0,\"y\":1.0,\"z\":0.0,\"w\":-4.371138828673793e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"281ff4d9-fc97-4a9f-b900-46f341c244aa\"}"
+                }
+            ]
+        },
+        {
+            "name": "Platform2",
+            "uniqueNumber": 9,
+            "exposed": true,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.5,\"y\":7.5,\"z\":2.5},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"281ff4d9-fc97-4a9f-b900-46f341c244aa\"}"
+                }
+            ]
+        },
+        {
+            "name": "Docks Module Stairs 01",
+            "uniqueNumber": 12,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":2.1657989025115969,\"y\":-0.2861151695251465,\"z\":2.9999992847442629},\"rot\":{\"x\":0.0,\"y\":-0.7071065902709961,\"z\":0.0,\"w\":0.7071070671081543},\"scale\":{\"x\":1.7499998807907105,\"y\":1.7499998807907105,\"z\":1.25}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0efa27f-01a9-41a4-a5ba-7e9a4350b5f7\"}"
+                }
+            ]
+        },
+        {
+            "name": "Docks Module Stairs 01",
+            "uniqueNumber": 13,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.617132186889648,\"y\":1.0358104705810547,\"z\":2.9999969005584719},\"rot\":{\"x\":0.0,\"y\":-0.7071065902709961,\"z\":0.0,\"w\":0.7071070671081543},\"scale\":{\"x\":1.7499998807907105,\"y\":1.7499998807907105,\"z\":1.25}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0efa27f-01a9-41a4-a5ba-7e9a4350b5f7\"}"
+                }
+            ]
+        },
+        {
+            "name": "Fence Wood End 01",
+            "uniqueNumber": 14,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.6570000648498539,\"y\":0.0,\"z\":1.9570000171661378},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.8049999475479127,\"y\":1.8049999475479127,\"z\":1.8049999475479127}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"620eb0d5-5dcf-4df0-a527-2139fe6a99ef\"}"
+                }
+            ]
+        },
+        {
+            "name": "Fence Wood End 01",
+            "uniqueNumber": 15,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.694326400756836,\"y\":0.0,\"z\":4.094231605529785},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.8052350282669068,\"y\":1.8052350282669068,\"z\":1.8052350282669068}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"620eb0d5-5dcf-4df0-a527-2139fe6a99ef\"}"
+                }
+            ]
+        },
+        {
+            "name": "Tent 02",
+            "uniqueNumber": 16,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.332732200622559,\"y\":0.0,\"z\":3.144862651824951},\"rot\":{\"x\":0.0,\"y\":0.7933531403541565,\"z\":0.0,\"w\":0.608761727809906},\"scale\":{\"x\":1.1021337509155274,\"y\":1.1021337509155274,\"z\":1.1021337509155274}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"198705ea-b8f9-4e16-85d6-d407791cc037\"}"
+                }
+            ]
+        },
+        {
+            "name": "Tent 02",
+            "uniqueNumber": 17,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.61890983581543,\"y\":0.0,\"z\":9.603184700012207},\"rot\":{\"x\":0.0,\"y\":0.5849327445030212,\"z\":0.0,\"w\":0.8110818862915039},\"scale\":{\"x\":1.1021337509155274,\"y\":1.1021337509155274,\"z\":1.1021337509155274}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"198705ea-b8f9-4e16-85d6-d407791cc037\"}"
+                }
+            ]
+        },
+        {
+            "name": "Floor Base Grass 01",
+            "uniqueNumber": 18,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"643c5374-3ca5-4202-9be6-d39e56fff185\"}"
+                }
+            ]
+        },
+        {
+            "name": "Fence Stone Tall Small 01",
+            "uniqueNumber": 19,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.3530000448226929,\"y\":0.0,\"z\":5.946000099182129},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":6.0,\"y\":6.0,\"z\":7.96999979019165}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"21e300d2-904a-4b34-9e28-d99cbd0af1af\"}"
+                }
+            ]
+        },
+        {
+            "name": "Fence Wood Large 01",
+            "uniqueNumber": 20,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.170000076293946,\"y\":7.559999942779541,\"z\":11.319999694824219},\"rot\":{\"x\":0.2705981135368347,\"y\":0.2705981135368347,\"z\":-0.6532815098762512,\"w\":-0.6532815098762512},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"d245e649-3c44-4261-9317-7c0b170874d8\"}"
+                }
+            ]
+        },
+        {
+            "name": "Log 01",
+            "uniqueNumber": 21,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":12.090158462524414,\"y\":6.806000232696533,\"z\":9.224560737609864},\"rot\":{\"x\":-0.27059802412986758,\"y\":0.6532815098762512,\"z\":-0.6532815098762512,\"w\":-0.27059802412986758},\"scale\":{\"x\":0.7269999980926514,\"y\":0.7269999980926514,\"z\":0.5709999799728394}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"20a7738c-36b3-45d1-adcc-f8ab588e3cb8\"}"
+                }
+            ]
+        },
+        {
+            "name": "Log 01",
+            "uniqueNumber": 22,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":10.633158683776856,\"y\":5.98799991607666,\"z\":7.764560699462891},\"rot\":{\"x\":-0.379409521818161,\"y\":-0.12059057503938675,\"z\":-0.9159755706787109,\"w\":0.04995030537247658},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.656000018119812}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"20a7738c-36b3-45d1-adcc-f8ab588e3cb8\"}"
+                }
+            ]
+        },
+        {
+            "name": "Fence Wood End 01",
+            "uniqueNumber": 23,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":9.28600025177002,\"y\":2.369999885559082,\"z\":6.38100004196167},\"rot\":{\"x\":0.2391176074743271,\"y\":0.36964383721351626,\"z\":-0.0990457683801651,\"w\":0.8923990726470947},\"scale\":{\"x\":1.8049999475479127,\"y\":3.055000066757202,\"z\":1.8049999475479127}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"620eb0d5-5dcf-4df0-a527-2139fe6a99ef\"}"
+                }
+            ]
+        },
+        {
+            "name": "Fence Wood End 01",
+            "uniqueNumber": 24,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":3.1659998893737795,\"y\":2.759000062942505,\"z\":5.445000171661377},\"rot\":{\"x\":-1.1313340486651669e-8,\"y\":0.9659258723258972,\"z\":-0.2588190734386444,\"w\":-4.222196281489232e-8},\"scale\":{\"x\":1.8049999475479127,\"y\":3.055000066757202,\"z\":1.8049999475479127}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"620eb0d5-5dcf-4df0-a527-2139fe6a99ef\"}"
+                }
+            ]
+        },
+        {
+            "name": "Log 01",
+            "uniqueNumber": 25,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":3.186201572418213,\"y\":6.377252578735352,\"z\":3.513726234436035},\"rot\":{\"x\":0.9914448261260986,\"y\":3.3527616238870908e-8,\"z\":2.828570018209575e-7,\"w\":-0.13052640855312348},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.656000018119812}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"20a7738c-36b3-45d1-adcc-f8ab588e3cb8\"}"
+                }
+            ]
+        },
+        {
+            "name": "Log 01",
+            "uniqueNumber": 26,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":3.188535451889038,\"y\":7.195000171661377,\"z\":1.4509999752044678},\"rot\":{\"x\":0.7071068286895752,\"y\":0.0,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":0.7269999980926514,\"y\":0.7269999980926514,\"z\":0.5709999799728394}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"20a7738c-36b3-45d1-adcc-f8ab588e3cb8\"}"
+                }
+            ]
+        },
+        {
+            "name": "Fence Wood Large 01",
+            "uniqueNumber": 27,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.89900016784668,\"y\":7.948999881744385,\"z\":5.574999809265137},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.7071068286895752,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.7100000381469727,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"d245e649-3c44-4261-9317-7c0b170874d8\"}"
+                }
+            ]
+        },
+        {
+            "name": "Cannon 01",
+            "uniqueNumber": 28,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":2.5999999046325685,\"y\":7.986000061035156,\"z\":4.109000205993652},\"rot\":{\"x\":0.0,\"y\":0.9238795638084412,\"z\":0.0,\"w\":-0.3826833963394165},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"d6e2ce02-de4b-4eae-8481-05b9477de2ee\"}"
+                }
+            ]
+        },
+        {
+            "name": "Cannonball 03",
+            "uniqueNumber": 29,
+            "exposed": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.132999897003174,\"y\":8.25,\"z\":4.14300012588501},\"rot\":{\"x\":0.0,\"y\":0.5187732577323914,\"z\":0.0,\"w\":0.8549118638038635},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"028431c4-cdd9-4c60-9cf3-f83b6c8ad0de\"}"
+                }
+            ]
+        }
+    ]
+}

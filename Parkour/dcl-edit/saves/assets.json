@@ -1,0 +1,59 @@
+{
+    "gltfAssets": [
+        {
+            "name": "Tent 02",
+            "id": "198705ea-b8f9-4e16-85d6-d407791cc037",
+            "gltfPath": "models/0149cae5-9e33-48aa-a346-94f02091ec75/Tent_02/Tent_02.glb"
+        },
+        {
+            "name": "Log 01",
+            "id": "20a7738c-36b3-45d1-adcc-f8ab588e3cb8",
+            "gltfPath": "models/26d204c5-52df-475c-a6b2-999ce1b716bd/Log_01/Log_01.glb"
+        },
+        {
+            "name": "Fence Stone Tall Small 01",
+            "id": "21e300d2-904a-4b34-9e28-d99cbd0af1af",
+            "gltfPath": "models/43888045-631f-4907-9bf5-e0529d9cc10d/FenceStoneTallSmall_01/FenceStoneTallSmall_01.glb"
+        },
+        {
+            "name": "Raft 01",
+            "id": "281ff4d9-fc97-4a9f-b900-46f341c244aa",
+            "gltfPath": "models/5d6202b7-d5b7-4bc6-a4a2-c1e6b35c0bb6/Raft_01/Raft_01.glb"
+        },
+        {
+            "name": "Fence Wood End 01",
+            "id": "620eb0d5-5dcf-4df0-a527-2139fe6a99ef",
+            "gltfPath": "models/6d56fcf8-d9e5-4fbb-a13f-8444a36ef7a3/FenceWoodEnd_01/FenceWoodEnd_01.glb"
+        },
+        {
+            "name": "Cannonball 03",
+            "id": "028431c4-cdd9-4c60-9cf3-f83b6c8ad0de",
+            "gltfPath": "models/8d0f5de1-c3ef-4752-b60f-f755cd3ecf27/Cannonball_03/Cannonball_03.glb"
+        },
+        {
+            "name": "Fence Wood Large 01",
+            "id": "d245e649-3c44-4261-9317-7c0b170874d8",
+            "gltfPath": "models/8f2069c1-ab16-4b16-b2cb-f2cc9238917e/FenceWoodLarge_01/FenceWoodLarge_01.glb"
+        },
+        {
+            "name": "Floor Base Grass 01",
+            "id": "643c5374-3ca5-4202-9be6-d39e56fff185",
+            "gltfPath": "models/c9b17021-765c-4d9a-9966-ce93a9c323d1/FloorBaseGrass_01/FloorBaseGrass_01.glb"
+        },
+        {
+            "name": "Cannon 01",
+            "id": "d6e2ce02-de4b-4eae-8481-05b9477de2ee",
+            "gltfPath": "models/f25b55b3-3260-4d81-b8e5-a2654ac9a3f5/Cannon_01/Cannon_01.glb"
+        },
+        {
+            "name": "Tree Sycamore 03",
+            "id": "b1572008-a488-47be-ba35-5c331a5cdee2",
+            "gltfPath": "models/fd4168d3-1040-458d-b90e-fe5f441d593b/TreeSycamore_03/TreeSycamore_03.glb"
+        },
+        {
+            "name": "Docks Module Stairs 01",
+            "id": "a0efa27f-01a9-41a4-a5ba-7e9a4350b5f7",
+            "gltfPath": "models/fdb0f713-5c34-4f5a-811b-8c4417b5ffd5/DocksModuleStairs_01/DocksModuleStairs_01.glb"
+        }
+    ]
+}
